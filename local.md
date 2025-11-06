@@ -4,4 +4,8 @@ title: Local Information
 subtitle: Information about traveling to, staying in, and enjoying Atlanta
 ---
 
-Coming soon
+More info coming soon
+
+* Useful Links
+
+- [Georgia Tech Visitor Information](https://www.gatech.edu/about/visit)
