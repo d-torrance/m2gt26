@@ -33,3 +33,7 @@ Help improve how the Macaulay2 project presents itself and communicates. Project
 # Consolidating Packages
 
 Reduce duplication and confusion in the package ecosystem. This track focuses on identifying overlapping packages, exploring mergers or shared infrastructure, and proposing clearer organization or dependency structures to make packages easier to discover and maintain.
+
+# Propose Your Own Project
+
+Have an idea that doesn’t fit neatly into the categories above? Participants are encouraged to propose their own Macaulay2-related project ideas, whether they focus on research workflows, tooling, performance, pedagogy, or long-term infrastructure. This is a chance to explore something you care about while contributing to the broader ecosystem.
