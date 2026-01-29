@@ -34,6 +34,10 @@ Help improve how the Macaulay2 project presents itself and communicates. Project
 
 Reduce duplication and confusion in the package ecosystem. This track focuses on identifying overlapping packages, exploring mergers or shared infrastructure, and proposing clearer organization or dependency structures to make packages easier to discover and maintain.
 
+# Testing & Test Coverage
+
+Strengthen the reliability of Macaulay2 by improving and expanding its test suite. Projects may include identifying untested or under-tested code paths, adding new tests, improving test organization, or developing tools and workflows that make testing easier and more effective for contributors.
+
 # Propose Your Own Project
 
 Have an idea that doesn’t fit neatly into the categories above? Participants are encouraged to propose their own Macaulay2-related project ideas, whether they focus on research workflows, tooling, performance, pedagogy, or long-term infrastructure. This is a chance to explore something you care about while contributing to the broader ecosystem.
