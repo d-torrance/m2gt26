@@ -26,7 +26,7 @@ Improve the tools used to diagnose problems in Macaulay2. This may include bette
 
 Clean up and modernize parts of the C++ codebase. This may include refactoring for readability, reducing technical debt, improving abstractions, or making the code easier to maintain and extend—without changing user-visible behavior.
 
-# PRs & Communications (Website / Wiki / Zulip / Logo)
+# Public Relations & Communications
 
 Help improve how the Macaulay2 project presents itself and communicates. Projects might include improving the website or wiki, organizing community resources, refining contributor workflows, strengthening Zulip onboarding, or visual/branding updates like logos or diagrams.
 
