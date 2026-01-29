@@ -24,7 +24,7 @@ Improve the tools used to diagnose problems in Macaulay2. This may include bette
 
 # C++ Code Refactoring
 
-Clean up and modernize parts of the C++ codebase. This may include refactoring for readability, reducing technical debt, improving abstractions, or making the code easier to maintain and extend—without changing user-visible behavior.
+Clean up and modernize parts of the C++ codebase. This may include refactoring for readability, reducing technical debt, improving abstractions, unit testing, or making the code easier to maintain and extend—without changing user-visible behavior.
 
 # Public Relations & Communications
 
