@@ -11,7 +11,6 @@ subtitle: Information about traveling to, staying in, and enjoying Atlanta
 Fly into Hartsfield-Jackson Atlanta International Airport (ATL).  To get to Georgia Tech:
 
 * Car: 13 mi north on I-75/85 ([directions](https://maps.app.goo.gl/UFYx7Q3Mj4AUNF3a8))
-
 * Train: MARTA [Red Line](https://itsmarta.com/red-line.aspx) from Airport to North Avenue (and walk) or Midtown (and take the [Stinger](https://www.pts.gatech.edu/shuttles/stinger/))
 
 ## Driving
