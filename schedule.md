@@ -4,6 +4,8 @@ title: Schedule
 subtitle: The schedule of events for M2@GT 2026
 ---
 
+All events will take place in the Skiles Classroom Building on the Georgia Tech campus.
+
 ## Shaping the Future of Macaulay2
 
 |               | Wed May 13    | Thurs May 14       | Fri May 15 | 
