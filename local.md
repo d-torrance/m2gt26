@@ -16,8 +16,8 @@ Fly into Hartsfield-Jackson Atlanta International Airport (ATL).  To get to Geor
 
 ## Driving
 
-* Southbound on I-75/85: Exit 249D (North Ave)
-* Northbound on I-75/85: Exit 250 (10th St/14 St/Georgia Tech)
+* Southbound on I-75/85: Exit 249D (North Ave/Georgia Tech)
+* Northbound on I-75/85: Exit 249D (Spring St/W Peachtree St)
 
 Parking information TBA
 
@@ -30,3 +30,4 @@ Funded participants have had rooms booked for them by the organizers at the [Ham
 
 # Useful Links
 - [Georgia Tech Visitor Information](https://www.gatech.edu/about/visit)
+- [Directions to the School of Mathematics](https://math.gatech.edu/directions)
