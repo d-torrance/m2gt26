@@ -12,7 +12,7 @@ All events will take place in the Skiles Classroom Building on the Georgia Tech 
 |---------------|---------------|--------------------|-------------|
 |  9:00 - 10:15 | Introduction  | Discussion         | Discussion  |
 | 10:15 - 10:45 | Coffee        | Coffee (10:30)     | Coffee      |
-| 10:45 - 12:00 | Discussion    | Colloquium (11:00) | Discussion  |
+| 10:45 - 12:00 | Discussion    | [Colloquium](https://math.gatech.edu/seminars-colloquia/series/school-mathematics-colloquium/michael-stillman-20260514) (11:00) | Discussion  |
 | 12:00 -  1:30 | Lunch         | Lunch              | Lunch       |
 |  1:30 -  2:30 | Brainstorming | Discussion         | Discussion  |
 |  2:30 -  3:00 | Coffee        | Coffee             | Coffee      |
