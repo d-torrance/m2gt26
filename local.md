@@ -17,7 +17,7 @@ Fly into Hartsfield-Jackson Atlanta International Airport (ATL).  To get to Geor
 * Southbound on I-75/85: Exit 249D (North Ave/Georgia Tech)
 * Northbound on I-75/85: Exit 249D (Spring St/W Peachtree St)
 
-Park in [Area 1 Visitor Parking](https://maps.app.goo.gl/5nrBMfKsdXdxXtEb9?g_st=ac).  Keep your ticket.  You will be provided with a validation code to use when exiting the lot.
+Park in [Area 1 Visitor Parking](https://maps.app.goo.gl/5nrBMfKsdXdxXtEb9?g_st=ac).  Keep your ticket.  You will be provided with validation codes (one per day parked) to use when exiting the lot and a placard to place on your dash.
 
 # Lodging
 
