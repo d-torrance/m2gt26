@@ -24,13 +24,13 @@ All events will take place in the Skiles Classroom Building on the Georgia Tech 
 
 |               | Sun May 17    | Mon May 18  | Tues May 19 | Wed May 20 | Thurs May 21  |
 |---------------|---------------|-------------|-------------|------------|---------------|
-|  9:00 -  9:30 | Introduction  | Gathering   | Gathering   | Gathering  | Gathering     |
-|  9:30 - 10:15 | Tutorial      | Groups      | Groups      | Groups     | Groups        |
+|  9:00 -  9:30 | *Introduction*  | *Gathering*   | *Gathering*   | *Gathering*  | *Gathering*     |
+|  9:30 - 10:15 | *Tutorial*      | Groups      | Groups      | Groups     | Groups        |
 | 10:15 - 10:45 | Coffee        | Coffee      | Coffee      | Coffee     | Coffee        |
 | 10:45 - 12:00 | Groups        | Groups      | Groups      | Groups     | Groups        |
-| 12:00 -  1:30 | Lunch         | Lunch       | Lunch       | Lunch      | Lunch         |
-|  1:30 -  2:30 | Groups        | Groups      | Groups      | Groups     | Presentations |
+| 12:00 -  1:30 | *Lunch*         | Lunch       | Lunch       | Lunch      | Lunch         |
+|  1:30 -  2:30 | Groups        | Groups      | Groups      | Groups     | *Presentations* |
 |  2:30 -  3:00 | Coffee        | Coffee      | Coffee      | Coffee     | Coffee        |
-|  3:00 -  5:00 | Groups        | Groups (reports @ 4) | Free        | Groups     | Presentations |
+|  3:00 -  5:00 | Groups        | Groups (*Reports* @ 4) | Free        | Groups     | *Presentations* |
 
 *This schedule is subject to change*
