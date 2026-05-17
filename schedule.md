@@ -31,6 +31,6 @@ All events will take place in the Skiles Classroom Building on the Georgia Tech 
 | 12:00 -  1:30 | Lunch         | Lunch       | Lunch       | Lunch      | Lunch         |
 |  1:30 -  2:30 | Groups        | Groups      | Groups      | Groups     | Presentations |
 |  2:30 -  3:00 | Coffee        | Coffee      | Coffee      | Coffee     | Coffee        |
-|  3:00 -  5:00 | Groups        | Groups      | Free        | Groups     | Presentations |
+|  3:00 -  5:00 | Groups        | Groups (reports @ 4) | Free        | Groups     | Presentations |
 
 *This schedule is subject to change*
