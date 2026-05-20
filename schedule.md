@@ -28,8 +28,8 @@ All events will take place in the Skiles Classroom Building on the Georgia Tech 
 |  9:30 - 10:15 | *Tutorial*      | Groups      | Groups      | Groups     | Groups        |
 | 10:15 - 10:45 | *Coffee*        | *Coffee*      | *Coffee*      | *Coffee*     | *Coffee*        |
 | 10:45 - 12:00 | Groups        | Groups      | Groups      | Groups     | Groups        |
-| 12:00 -  1:30 | *Lunch*         | Lunch       | Lunch       | Lunch      | Lunch         |
-|  1:30 -  2:30 | Groups        | Groups      | Groups      | Groups     | *Presentations* |
+| 12:00 -  1:30 | *Lunch*         | Lunch       | Lunch       | Lunch      | Lunch (until 1:00)        |
+|  1:30 -  2:30 | Groups        | Groups      | Groups      | Groups     | *Presentations* (1:00) |
 |  2:30 -  3:00 | *Coffee*        | *Coffee*      | *Coffee*      | *Coffee*     | *Coffee*        |
 |  3:00 -  5:00 | Groups        | Groups (*Standups* @ 4) | Free        | Groups     | *Presentations* |
 
