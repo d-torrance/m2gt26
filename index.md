@@ -4,6 +4,8 @@ title: The Future of Macaulay2
 subtitle: Macaulay2 Workshop at Georgia Tech
 ---
 
+This workshop has concluded.  Check out the [collaboration area](https://macaulay2.github.io/Workshop-2026-Atlanta/) to learn about what we did.
+
 # Shaping the Future of Macaulay2
 ## Wednesday, May 13 - Friday, May 15, 2026
 ### Invitation Only
